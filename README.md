@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/nil" target="blank"><img src="https://img.shields.io/twitter/follow/nil?logo=twitter&style=for-the-badge" alt="nil" /></a> </p>
 
-- 🔭 I’m currently working on **as a intern**
+- 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **opensource contribution**
 
