@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms Also System Design Concepts**
+- 🌱 I’m currently learning **Data Structures and Algorithms, DevOps Also System Design Concepts**
 
-- 👯 I’m looking to collaborate on **opensource contribution**
-
-- 💬 Ask me about **Java, OOPs, AI/ML, Web Development**
+- 💬 Ask me about **Java, OOPs, DevOps, Web Development**
 
 - 📫 How to reach me **muhaiadeensabeer02@gmail.com**
 
